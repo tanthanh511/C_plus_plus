@@ -1,0 +1,3 @@
+﻿  TinhTienBoSuuTap.cpp
+D:\C++\basic\TinhTienBoSuuTap\TinhTienBoSuuTap\TinhTienBoSuuTap.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  TinhTienBoSuuTap.vcxproj -> D:\C++\basic\TinhTienBoSuuTap\x64\Debug\TinhTienBoSuuTap.exe
