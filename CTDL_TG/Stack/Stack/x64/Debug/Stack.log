@@ -1,0 +1,4 @@
+﻿  Stack.cpp
+D:\C++\C_plus_plus\CTDL_TG\Stack\Stack\Stack.cpp(40): warning C4715: 'top': not all control paths return a value
+D:\C++\C_plus_plus\CTDL_TG\Stack\Stack\Stack.cpp(52): warning C4715: 'pop': not all control paths return a value
+  Stack.vcxproj -> D:\C++\C_plus_plus\CTDL_TG\Stack\x64\Debug\Stack.exe
