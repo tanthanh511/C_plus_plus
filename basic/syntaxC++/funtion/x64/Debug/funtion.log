@@ -1,0 +1,4 @@
+﻿  funtion.cpp
+D:\C++\C_plus_plus\basic\syntaxC++\funtion\funtion.cpp(157,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\C++\C_plus_plus\basic\syntaxC++\funtion\funtion.cpp(169,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  funtion.vcxproj -> D:\C++\C_plus_plus\basic\syntaxC++\x64\Debug\funtion.exe
